@@ -63,12 +63,12 @@ This project aims to solve these problems by providing a centralized platform wh
 
 ### AI-Powered Record Creation & Editing
 
-![AI Record Creation](screenshots\add_record.PNG)
+![AI Record Creation](screenshots/add_record.PNG)
 ![AI Record Editing](screenshots/edit_record.PNG)
 
 ### AI Manual Assistant
 
-![AI Assistant](screenshots/Ai_assistant.PNG)
+![AI Assistant](screenshots/AI_assistant.PNG)
 
 ## AI-Assisted Inventory Operations
 
