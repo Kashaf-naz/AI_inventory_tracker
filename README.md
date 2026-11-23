@@ -51,24 +51,24 @@ This project aims to solve these problems by providing a centralized platform wh
 
 ### Sign In / Sign Up
 
-![Sign In / Sign Up](screenshots/sig_in_page.png)
+![Sign In / Sign Up](screenshots/sign_in_page.PNG)
 
 ### Main Dashboard
 
-![Main Dashboard](screenshots/Main_Dashboard.png)
+![Main Dashboard](screenshots/Main_Dashboard.PNG)
 
 ### Inventory Management
 
-![Inventory Management](screenshots/Inventory_Management.png)
+![Inventory Management](screenshots/Inventory_Management.PNG)
 
 ### AI-Powered Record Creation & Editing
 
-![AI Record Creation](screenshots/add_record.png)
-![AI Record Editing](screenshots/edit_record.png)
+![AI Record Creation](screenshots/add_record.PNG)
+![AI Record Editing](screenshots/edit_record.PNG)
 
 ### AI Manual Assistant
 
-![AI Assistant](screenshots/Ai_assistant.png)
+![AI Assistant](screenshots/Ai_assistant.PNG)
 
 ## AI-Assisted Inventory Operations
 
