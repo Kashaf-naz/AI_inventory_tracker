@@ -1,4 +1,4 @@
-# AI Inventory Tracker
+# AI-Powered Asset & Inventory Management System
 
 An AI-powered home inventory management application built with Python and Streamlit. The application combines inventory management, receipt scanning, document processing, OCR, and AI-assisted operations to simplify the organization and management of household items.
 
